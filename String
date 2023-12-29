@@ -1,0 +1,17 @@
+// Convert s(string) to lowercase
+    transform(s.begin(), s.end(), s.begin(), ::tolower);
+
+// Compare the two strings lexicographically
+    int ans = s1.compare(s2);
+
+//Check if the character is lowercase
+if (islower(ch)
+
+// Check if the character is uppercase
+    if (isupper(ch)
+
+// Convert the character to lowercase
+    tolower(ch);
+
+// Convert the character to uppercase
+    toupper(ch);
