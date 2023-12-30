@@ -5,13 +5,18 @@
     int ans = s1.compare(s2);
 
 //Check if the character is lowercase
-if (islower(ch)
+if (islower(ch))
 
 // Check if the character is uppercase
-    if (isupper(ch)
+    if (isupper(ch))
+
+// Check if the character is digit
+    if (isdigit(ch))
 
 // Convert the character to lowercase
     tolower(ch);
 
 // Convert the character to uppercase
     toupper(ch);
+
+
