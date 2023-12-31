@@ -19,4 +19,9 @@ if (islower(ch))
 // Convert the character to uppercase
     toupper(ch);
 
+// string sort
+sort(s.begin(), s.end());
+
+
+
 
