@@ -1,0 +1,3 @@
+// Convert N to its binary representation
+string binary = bitset<32>(n).to_string();
+
