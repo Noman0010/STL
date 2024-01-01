@@ -1,0 +1,2 @@
+// Binary Search on vector and return true or flase
+(binary_search(v.begin(), v.end(), x)
