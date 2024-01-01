@@ -1,0 +1,3 @@
+// return sum of all array element
+accumulate(a, a+n, sum);
+
