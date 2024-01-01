@@ -1,7 +1,6 @@
 // return sum of all array element
 accumulate(a, a+n, sum);
 
-
 // string to integer convert
 long long n = stoll(s);
 
