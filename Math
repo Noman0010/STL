@@ -1,0 +1,2 @@
+// Calculate the smallest multiple
+smallestMultiple = (a + b - 1) / b * b; 
