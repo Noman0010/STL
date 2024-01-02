@@ -25,6 +25,10 @@ if (islower(ch))
 // string sort
 sort(s.begin(), s.end());
 
+//string reverse
+  reverse(reversed.begin(), reversed.end());
+
+
 
 
 
