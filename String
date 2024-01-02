@@ -13,6 +13,9 @@ if (islower(ch))
 // Check if the character is digit
     if (isdigit(ch))
 
+// number to string convert
+   to_string(n)
+  
 // Convert the character to lowercase
     tolower(ch);
 
