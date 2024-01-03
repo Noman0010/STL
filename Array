@@ -1,7 +1,11 @@
 // return sum of all array element
-accumulate(a, a+n, sum);
+   accumulate(a, a+n, sum);
 
 // string to integer convert
-long long n = stoll(s);
+   long long n = stoll(s);
+
+// Find the indices of the maximum and minimum elements
+    int maxIndex = distance(v.begin(), find(v.begin(), v.end(), maxx));
+    int minIndex = distance(v.begin(), find(v.begin(), v.end(), minn));
 
 
