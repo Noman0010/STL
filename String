@@ -1,33 +1,38 @@
 // Convert s(string) to lowercase
-    transform(s.begin(), s.end(), s.begin(), ::tolower);
+   transform(s.begin(), s.end(), s.begin(), ::tolower);
 
 // Compare the two strings lexicographically
-    int ans = s1.compare(s2);
+   int ans = s1.compare(s2);
 
 //Check if the character is lowercase
-if (islower(ch))
+  if (islower(ch))
 
 // Check if the character is uppercase
-    if (isupper(ch))
+   if (isupper(ch))
 
 // Check if the character is digit
-    if (isdigit(ch))
+   if (isdigit(ch))
 
 // number to string convert
    to_string(n)
   
 // Convert the character to lowercase
-    tolower(ch);
+   tolower(ch);
 
 // Convert the character to uppercase
-    toupper(ch);
+   toupper(ch);
 
 // string sort
-sort(s.begin(), s.end());
+   sort(s.begin(), s.end());
 
 //string reverse
   reverse(reversed.begin(), reversed.end());
 
+// covert entire string to number
+   int number = stoi(s);
+
+//counts the occurrences of the target character in the given string.
+  int number = count(s.begin(), s.end(), target);
 
 
 
